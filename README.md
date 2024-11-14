@@ -2,7 +2,7 @@
 
 This repository delves into cutting-edge advancements in battery intelligence and automation, showcasing a detailed process to highlight these innovations.
 
-Through our work, we have achieved significant cost savings of $85K annually by automating the Python pipeline with AWS stack (Redshift, QuickSight) and data science libraries (Numpy, Pandas, Matplotlib, Scikit-learn). This automation effectively replaced a full-time Data Analyst role and reduced analysis time by an impressive 95%, bringing it down from 40 hours to just 2 hours weekly.
+Through our work, we have achieved significant cost savings of $85K annually by automating the Python pipeline with AWS stack (Redshift, QuickSight) and data science libraries (Numpy, Pandas, Scikit-learn). This automation effectively replaced a full-time Data Analyst role and reduced analysis time by an impressive 95%, bringing it down from 40 hours to just 2 hours weekly.
 
 Additionally, we have boosted battery life prediction accuracy by 10 percentage points, increasing it from 79% to 89%. This improvement was realized through ensemble modeling techniques (XGBoost, RandomForest, SVM) and innovative feature engineering, including the use of cell-pack resistance ratios and thermodynamic calculations.
 
